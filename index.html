@@ -70,26 +70,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <p>               
                 <ul>
                   <li>Gwangju Institute of Science and Technology (GIST), South Korea. Sep. 2015 - (in progress) - Ph.D.
-                  <br>Electrical Engineering and Computer Science.
+                  <br>Department of Electrical Engineering and Computer Science - Computer Vision Lab.
                   <br>Advisors: <a href="http://users.umiacs.umd.edu/~jhchoi/">Prof. Jonghyun Choi</a> (GIST) and  <a href="http://vi.kaist.ac.kr/project/kuk-jin-yoon/">Prof. Kuk-Jin Yoon</a> (KAIST)
-                  <br>Thesis: Events to video synthesis using deep learning methods. (cont.)</li>
+                  </li>
+                  
                   <li>Hakim Sabzevari University, Iran. Sep. 2009 - Jul. 2011 - M.Sc.
-                  <br>Electrical Engineering - Electronics.
+                  <br>Department of Electrical Engineering and Computer Science - Image Processing Lab.
                   <br>Advisors: <a href="http://eng.ui.ac.ir/~p_moallem">Prof. Payman Moallem</a> and Prof. Javad Haddadnia.
-                  <br>Thesis: Facial Image Super Resolution by Location Patches.</li>
+                  <br>Thesis: Facial Image Super Resolution Using Weighted Patch Pairs.</li>
                 </ul>
               </p>
             </td>
           </tr>
         </tbody></table>
   
-  
+   <!--
           <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
             <tr>
               <td>
                 <heading> <strong> Selected Publications: </strong> </heading>
               </td>
             </tr>
+  -->          
+       
+            <tr onmouseout="sr_start()" onmouseover="sr_stop()">
+              
+              <td style="padding:20px;width:25%;vertical-align:middle">
+                <div class="one">
+                  <div class="two" id='e2sri'><img src='images/e2sri_1.jpg'></div>
+                  <img src='images/e2sri_2.jpg'>
+                </div>
+                <script type="text/javascript">
+                  function sr_start() {
+                    document.getElementById('e2sri').style.opacity = "1";
+                  }
+
+                  function sr_stop() {
+                    document.getElementById('e2sri').style.opacity = "0";
+                  }
+                  font_stop()
+                </script>
+              </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://arxiv.org/pdf/1912.01196">
+                  <papertitle>Learning to Super Resolve Intensity Images from Events</papertitle>
+                </a>
+
+                <br>
+                <strong>S. Mohammad Mostafavi I.</strong>,
+                <a href="http://users.umiacs.umd.edu/~jhchoi/">Jonghyun Choi</a> and
+                <a href="http://vi.kaist.ac.kr/project/kuk-jin-yoon/">Kuk-Jin Yoon</a>                         
+                <br>
+                
+                <em>CVPR 2020</em>, <strong>Oral</strong>
+                <br>
+                <a href="https://github.com/gistvision/e2sri/">code</a> / <a href="https://arxiv.org/pdf/1912.01196"> arXiv</a>
+                <p></p>
+                <p>A recurrent residual CNN to reconstruct high quality super-resolved intensity images from events, outperforming state-of-the-arts by large margins.</p>
+              </td>
+            </tr>
+             
+<!--            
           <tr>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/1912.01196">
@@ -105,6 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               Topic: Directly synthesizing higher quality super-resolved intensity images from event cameras.
             </td>
            </tr>
+-->
            <tr>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="https://arxiv.org/abs/1811.08230">
@@ -120,9 +162,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <br>
               Topic: Synthesizing high quality intensity images at a high speed from event cameras.
             </td>
-          </tr>       
+          </tr>
+
+<!--       
           </tbody></table>  
-  
+-->  
         
       </td>
     </tr>
