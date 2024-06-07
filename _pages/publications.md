@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: This is a shortlisted version of the publications, for the full list please check my <a href="https://scholar.google.com/citations?user=NNvELCcAAAAJ" target="_blank" rel="external nofollow noopener">Google Scholar</a> page.
+description: This is a shortlisted version of the publications, for the full list please check my <a href="https://scholar.google.com/citations?user=NNvELCcAAAAJ">Google Scholar</a> page.
 nav: true
 nav_order: 2
 ---
