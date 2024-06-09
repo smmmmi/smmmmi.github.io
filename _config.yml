@@ -86,14 +86,14 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: mohammadmostafavi # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0000-0002-5883-3844 # your ORCID ID 0000-0002-5883-3844
+orcid_id: # your ORCID ID 0000-0002-5883-3844
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: Mohammad-Mostafavi-6 # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate Mohammad-Mostafavi-6
 scholar_userid: NNvELCcAAAAJ # your Google Scholar ID
-scopus_id: 40461500600 # your profile on Scopus
+scopus_id: # your profile on Scopus 40461500600
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
