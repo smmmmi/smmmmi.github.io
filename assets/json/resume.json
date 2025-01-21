@@ -29,6 +29,35 @@
   ],
   "work": [
     {
+      "name": "Medical Imaging and Signal Processing Research Center - Medical University of Isfahan, Iran.",
+      "position": "PostDoc Researcher - Ongoing",
+      "url": "https://misp.mui.ac.ir/",
+      "startDate": "2024-06",
+      "endDate": "2024-06",
+      "summary": "PostDoc Researcher",
+      "highlights": [
+        "Developed data clustering and purification pipelines, semi-automated data labeling systems, deep learning models, and analysis software.",
+        "Conducted AI jump-start courses for university professors and medical experts, tailored to various branches of medicine. These courses aimed to foster interdisciplinary research teams focused on AI research and application design, while also providing support grants.",
+        "Designed university curricula for teaching AI applications in Ophthalmology and Dentistry, and actively participated in teaching the Ophthalmology curriculum.",
+        "Collaborated across multiple disciplines, including general medicine, pathology, dentistry, ophthalmology, pharmacy, and neuroscience.",
+        "Implemented computational infrastructure for online and remote training programs."
+      ]
+    },    
+    {
+      "name": "Researcher - Seoul National University - Machine Perception and Reasoning lab.",
+      "position": "Remote Researcher - Ongoing",
+      "url": "https://snumprlab.github.io/people.html",
+      "startDate": "2024-03",
+      "endDate": "2025-03",
+      "summary": "Remote Researcher",
+      "highlights": [
+        "mentoring two MS students",
+        "Project 1 - Depth estimation with Event Cameras using Spiking Neural Networks",
+        "Project 2 - Image-to-image Translation with Diffusion Models",
+        "Paper contributions (submission to CVPR'25|ICML'25)."
+      ]
+    },
+    {
       "name": "Oncology Model-Centric AI Research - Lunit Inc., South Korea.",
       "position": "(Senior) Research Scientist and Team leader - 3 yrs",
       "url": "https://www.lunit.io/en",
@@ -66,9 +95,8 @@
       "position": "Further Experiences",
       "url": "",
       "startDate": "2011-01",
-      "endDate": "2024-XX",
+      "endDate": "2015-09",
       "highlights": [
-        "Researcher - Seoul National University - Machine Perception and Reasoning lab. (Mar. 2024 - Ongoing): Project 1 - Depth estimation via Event Cameras - mentoring two MS students | Project 2 - Image-to-image Translation with Diffusion and Consistency Models | paper contributions (submission to CVPR'25|ICML'25).",
         "Instrumentation supervisor - Esfahan Petrochemical Company (Spring 2013 - Fall 2015).",
         "Researcher - Isfahan University of Technology (Fall 2012 - Spring 2013), Subsea R&D center.",
         "Instructor - Islamic Azad University, Mobarakeh Branch (2011 and 2013)."
