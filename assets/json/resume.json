@@ -33,7 +33,7 @@
       "position": "PostDoc Researcher - Ongoing",
       "url": "https://misp.mui.ac.ir/",
       "startDate": "2024-06",
-      "endDate": "2024-06",
+      "endDate": "2025-06",
       "summary": "PostDoc Researcher",
       "highlights": [
         "Developed data clustering and purification pipelines, semi-automated data labeling systems, deep learning models, and analysis software.",
@@ -222,6 +222,20 @@
       "publisher": "Diagnostics 2022 - HG Cho, SI Cho, S Choi, W Jung, J Shin, G Park, J Moon, M Ma, H Song, M Mostafavi, M Kang, S Pereira, K Paeng, D Yoo, CY Ock, S Kim - MDPI Diagnostics -- (IF 3.99)",
       "releaseDate": "J4 - 2022",
       "url": "https://www.mdpi.com/2075-4418/12/10/2340",
+      "summary": ""
+    },
+    {
+      "name": "[J5] Changes in the tumor microenvironment in recurrent head and neck squamous cell carcinoma and its implication on efficacy of immune checkpoint inhibitors",
+      "publisher": "Discover Oncology 2024 - DH Kim, M Kang, G Park, M Mostafavi, Y Lim, CY Ock, J Koh, YK Jeon, KC Jung, SH Ahn, EJ Chung, SK Kwon, B Keam - Springer Discover Oncology -- (IF 2.8)",
+      "releaseDate": "J5 - 2024",
+      "url": "https://link.springer.com/article/10.1007/s12672-024-01504-0",
+      "summary": ""
+    },
+    {
+      "name": "[J6] A universal immunohistochemistry analyzer for generalizing AI-driven assessment of immunohistochemistry across immunostains and cancer types",
+      "publisher": "npj precision oncology 2024 - B Brattoli*, M Mostafavi*, T Lee*, W Jung, J Ryu, S Park, J Park, S Pereira, S Shin, S Choi, H Kim, D Yoo, SM Ali, K Paeng, CY Ock, SI Cho, S Kim -  Nature npj precision oncology -- (IF 6.8)",
+      "releaseDate": "J6 - 2024",
+      "url": "https://www.nature.com/articles/s41698-024-00770-z",
       "summary": ""
     },
     {
