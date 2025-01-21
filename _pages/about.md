@@ -17,6 +17,11 @@ social: true # includes social icons at the bottom of the page
 
 👋 Hello! I’m an artificial intelligence researcher specializing in computer vision and machine learning. With a passion for solving complex problems, I’ve dedicated 3+ years to medical AI, particularly in the field of computational pathology. Additionally, I have 7+ years of experience in event-based vision, focusing on event cameras. Explore my latest interests [here](/cv/#interests-1), and/or keep reading for a concise overview about me.
 
+`Current Affiliations`
+(1) I am currently finalizing a nomadic postdoc researcher position at Medical Imaging and Signal Processing Research Center (MISP)[https://misp.mui.ac.ir/] at the Medical University of Isfahan, Iran. This project is held by Iran's National Elites Foundation (INEF)[https://en.bmn.ir/] conducted via the (Connect Platform)[https://connect.isti.ir/]. In addition to developing CV/ML data and deep learning project that are mainly focused on medical AI, I design and teach AI courses to medical students and professors to foster interdisciplinary research teams.
+
+(2) I am also a remote researcher at Seoul National University (SNU) (Machine Perception and Reasoning lab)[https://snumprlab.github.io/people.html]. I collaborate on event-based vision research and also on image-to-image translation research involving diffusion and consistency models.
+
 `Industry Experience`
 As a Senior Research Scientist and Team Leader at [Lunit](https://www.lunit.io)’s Oncology AI group, I’ve been at the forefront of driving progress. Our collaborative efforts have led to prestigious awards, impactful research papers, and even a patent. Though our team was titled model-centric, I further thrive on exploring data-centric, and engineering-centric approaches to advance the field.
 
