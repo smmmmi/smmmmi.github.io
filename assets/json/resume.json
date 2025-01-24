@@ -71,7 +71,7 @@
         "Lead taskforces in 4 out of 8 model development sprints.",
         "Developing further product-oriented research directions e.g. Universal IHC models [A1], Sub-cellular models [P1], WSI synthesis, and End-point mutations.",
         "Shared recent CV/ML trends through study groups, weekly research seminars, and yearly department-wise seminars.",
-        "Published findings,  practices, and resources in Computational Pathology and PathOmics, including Abstracts [A1~A4], Journals [J3, J4], Patents [P1], and Challenges [S3].",
+        "Published findings,  practices, and resources in Computational Pathology and PathOmics, including Abstracts [A1~A4], Journals [J3, J4], Patents [P2,P3], and Challenges [S3].",
         " Collaborated across desciplines of pathology, biomedical engineering, product engineering, and business development."
       ]
     },
@@ -84,7 +84,7 @@
       "summary": "RA at GIST (2015~2021), RA at KAIST (2017~2019).",
       "highlights": [
         "Proposed novel deep-learning approaches on the event-based vision for image reconstruction [J1, C3], super-resolution [J2, C4], and depth estimation [C1, C2].",
-        "Published in top-tier journals (TPAMI/IJCV [J1, J2]), conferences (CVPR/IJCV [C1~C4] - 1 oral), and registered a Patent [P2].",
+        "Published in top-tier journals (TPAMI/IJCV [J1, J2]), conferences (CVPR/IJCV [C1~C4] - 1 oral), and registered a Patent [P1].",
         " Mentored a master's student, from teaching basic concepts to publishing in a CVPR paper [C1].",
         "Ranked #1 in CVPRW Event-based Vision Competition (2021).",
         "Contributed to the research community by releasing 2 code repos on GitHub from papers: https://github.com/gistvision/e2sri (50⭐)[C3] (June 2024), https://github.com/yonseivnl/se-cff (37⭐)[C1] (June 2024)."
@@ -269,17 +269,24 @@
   ],
   "certificates": [
     {
-      "name": "Patent - Event Cameras",
+      "name": "Patent 1 - Event Cameras",
       "date": "2022",
       "issuer": "Korean Intellectual Property Office",
-      "url": "/assets/pdf/Patent-Event-Camera-1020200070044B1.pdf",
+      "url": "/assets/pdf/Patent0.pdf",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Patent - Medical AI",
+      "name": "Patent 2 - Medical AI",
       "date": "2024",
       "issuer": "Korean Intellectual Property Office",
-      "url": "/assets/pdf/Patent-Medical-LP2024-001-KR.pdf",
+      "url": "/assets/pdf/Patent1.pdf",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+    {
+      "name": "Patent 3 - Medical AI",
+      "date": "2024",
+      "issuer": "Korean Intellectual Property Office",
+      "url": "/assets/pdf/Patent2.pdf",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
