@@ -19,11 +19,15 @@ social: true # includes social icons at the bottom of the page
 
 `Current Affiliations`
 
-(1) I am a postdoc researcher at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html). I collaborate on event-based vision research, image-to-image translation research involving diffusion and consistency models, and also versatile incremental learning.
+(1) I am a postdoc researcher (Since Sep. 2025) at Korea Advnaced Institute of Science and Technology (KAIST) [Visual Intelligence lab](https://vi.kaist.ac.kr). Conducted in collaboration with my 2nd affiilation, SNUMPR, this research is supported by South Korea’s Ministry of Science and ICT through the InnoCORE (Innovation + Core Researchers) program.
 
-(2) I am also finalizing a nomadic postdoc researcher position at Medical Imaging and Signal Processing Research Center [MISP](https://misp.mui.ac.ir/) at the Medical University of Isfahan, Iran. This project is held by Iran's National Elites Foundation [INEF](https://en.wikipedia.org/wiki/Iran%27s_National_Elites_Foundation) conducted via the [Connect Platform](https://connect.isti.ir/). In addition to developing CV/ML data and deep learning project that are mainly focused on medical AI, I design and teach AI courses to medical students and professors to foster interdisciplinary research teams.
+(2) I am a postdoc researcher (Since Apr. 2024) at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html). I collaborate on event-based vision research, image-to-image translation research involving diffusion and consistency models, and also versatile incremental learning.
 
-`Industry Experience`
+
+`Back to Academia after Industry`
+I was a nomadic postdoc researcher position at Medical Imaging and Signal Processing Research Center [MISP](https://misp.mui.ac.ir/) at the Medical University of Isfahan, Iran. This project is held by Iran's National Elites Foundation [INEF](https://en.wikipedia.org/wiki/Iran%27s_National_Elites_Foundation) conducted via the [Connect Platform](https://connect.isti.ir/). In addition to developing CV/ML data and deep learning project that are mainly focused on medical AI, I design and teach AI courses to medical students and professors to foster interdisciplinary research teams.
+
+`Industry Experience after PhD`
 As a Senior Research Scientist and Team Leader at [Lunit](https://www.lunit.io)’s Oncology AI group, I’ve been at the forefront of driving progress. Our collaborative efforts have led to prestigious awards, impactful research papers, and even a patent. Though our team was titled model-centric, I further thrive on exploring data-centric, and engineering-centric approaches to advance the field.
 
 `Academic Journey`
