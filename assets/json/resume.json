@@ -33,7 +33,7 @@
       "position": "PostDoc Researcher - Ongoing",
       "url": "https://misp.mui.ac.ir/",
       "startDate": "2024-06",
-      "endDate": "2025-06",
+      "endDate": "2025-02",
       "summary": "PostDoc Researcher",
       "highlights": [
         "Developed data clustering and purification pipelines, semi-automated data labeling systems, deep learning models, and analysis software.",
@@ -45,17 +45,26 @@
     },
     {
       "name": "Researcher - Seoul National University - Machine Perception and Reasoning lab.",
-      "position": "Remote Researcher - Ongoing",
+      "position": "Postdoc Researcher - Ongoing",
       "url": "https://snumprlab.github.io/people.html",
       "startDate": "2024-03",
-      "endDate": "2025-03",
-      "summary": "Remote Researcher",
+      "endDate": "2025-08",
+      "summary": "Postdoc Researcher",
       "highlights": [
         "mentoring two MS students",
         "Project 1 - Depth estimation with Event Cameras using Spiking Neural Networks",
         "Project 2 - Image-to-image Translation with Diffusion Models",
         "Paper contributions (submission to CVPR'25|ICML'25)."
       ]
+    },
+    {
+      "name": "KAIST-VI & SNU-MPR",
+      "position": "PostDoc Researcher - Ongoing",
+      "url": "https://vi.kaist.ac.kr",
+      "startDate": "2025-09",
+      "endDate": "2026-09",
+      "summary": "InnoCORE (Innovation + Core Researchers) program",
+      "highlights": []
     },
     {
       "name": "Oncology Model-Centric AI Research - Lunit Inc., South Korea.",
@@ -69,9 +78,9 @@
         "Improved performance of SCOPE™ products and pharma-requested models/bakeoffs.",
         "Developed CV/ML-based cell detection and tissue segmentation models for SCOPE™ (IO, PD-L1, HER2), and UIHC.",
         "Lead taskforces in 4 out of 8 model development sprints.",
-        "Developing further product-oriented research directions e.g. Universal IHC models [A1], Sub-cellular models [P1], WSI synthesis, and End-point mutations.",
+        "Developing further product-oriented research directions e.g. Universal IHC models [A1, J6], Sub-cellular models [P1, P2], WSI synthesis, and End-point mutations.",
         "Shared recent CV/ML trends through study groups, weekly research seminars, and yearly department-wise seminars.",
-        "Published findings,  practices, and resources in Computational Pathology and PathOmics, including Abstracts [A1~A4], Journals [J3, J4], Patents [P2,P3], and Challenges [S3].",
+        "Published findings,  practices, and resources in Computational Pathology and PathOmics, including Abstracts [A1~A4], Journals [J3~J6], Patents [P1,P2], and Challenges [S4].",
         " Collaborated across desciplines of pathology, biomedical engineering, product engineering, and business development."
       ]
     },
@@ -84,10 +93,10 @@
       "summary": "RA at GIST (2015~2021), RA at KAIST (2017~2019).",
       "highlights": [
         "Proposed novel deep-learning approaches on the event-based vision for image reconstruction [J1, C3], super-resolution [J2, C4], and depth estimation [C1, C2].",
-        "Published in top-tier journals (TPAMI/IJCV [J1, J2]), conferences (CVPR/IJCV [C1~C4] - 1 oral), and registered a Patent [P1].",
+        "Published in top-tier journals (TPAMI/IJCV [J1, J2]), conferences (CVPR/IJCV [C1~C4] - 1 oral), and registered a Patent [P3].",
         " Mentored a master's student, from teaching basic concepts to publishing in a CVPR paper [C1].",
         "Ranked #1 in CVPRW Event-based Vision Competition (2021).",
-        "Contributed to the research community by releasing 2 code repos on GitHub from papers: https://github.com/gistvision/e2sri (50⭐)[C3] (June 2024), https://github.com/yonseivnl/se-cff (37⭐)[C1] (June 2024)."
+        "Contributed to the research community by releasing 2 code repos on GitHub from papers: https://github.com/gistvision/e2sri (51⭐)[C3] (Sep 2024), https://github.com/yonseivnl/se-cff (49⭐)[C1] (Sep 2024)."
       ]
     },
     {
@@ -147,13 +156,13 @@
       "name": "Development Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["PyTorch , TensorFlow", "Keras , OpenCV", "NumPy , Pandas", "Seaborn , Matplotlib"]
+      "keywords": ["PyTorch" , "TensorFlow", "Keras" , "OpenCV", "NumPy" , "Pandas", "Seaborn" , "Matplotlib"]
     },
     {
       "name": "Development and Deployment Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["GNU Linux , Docker", "Google GCP , Git", "ROS , Meshlab", "LaTeX , Confluence", "Jira, Notion"]
+      "keywords": ["GNU Linux" , "Docker", "Google GCP" , "Git", "ROS" , "Meshlab", "LaTeX" , "Confluence", "Jira", "Notion"]
     },
     {
       "name": "Management Skills",
@@ -211,14 +220,14 @@
       "summary": ""
     },
     {
-      "name": "[J3] Learning to reconstruct HDR images from events, with applications to depth and flow",
+      "name": "[J3] Artificial intelligence‐powered spatial analysis of tumor‐infiltrating lymphocytes as a predictive biomarker for axitinib in adenoid cystic carcinoma",
       "publisher": "Head & Neck 2023 - DH Kim, Y Lim, C‐Y Ock, G Park, S Park, H Song, M Ma, M Mostafavi, EJ Kang, M‐J Ahn, K‐W Lee, JH Kwon, Y Yang, YH Choi, MK Kim, JH Ji, T Yun, S‐B Kim, B Keam - Wiley Head & Neck -- (IF 2.9)",
       "releaseDate": "J3 - 2023",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hed.27537",
       "summary": ""
     },
     {
-      "name": "[J4] Artificial intelligence‐powered spatial analysis of tumor‐infiltrating lymphocytes as a predictive biomarker for axitinib in adenoid cystic carcinoma",
+      "name": "[J4] Artificial intelligence-powered whole-slide image analyzer reveals a distinctive distribution of tumor-infiltrating lymphocytes in neuroendocrine neoplasms",
       "publisher": "Diagnostics 2022 - HG Cho, SI Cho, S Choi, W Jung, J Shin, G Park, J Moon, M Ma, H Song, M Mostafavi, M Kang, S Pereira, K Paeng, D Yoo, CY Ock, S Kim - MDPI Diagnostics -- (IF 3.99)",
       "releaseDate": "J4 - 2022",
       "url": "https://www.mdpi.com/2075-4418/12/10/2340",
@@ -260,36 +269,35 @@
       "summary": ""
     },
     {
-      "name": "[A4] Identification of HER2 ultra-low based on an artificial intelligence (AI)-powered HER2 subcellular quantification from HER2 immunohistochemistry images.",
-      "publisher": "ASCO 2024 - Jung, Wonkyung and Lee, Taebum and SHIN, Sangwon and Brattoli, Biagio and Mostafavi, Mohammad and Park, Gahee and Kim, Sukjun and Lee, Hyunwoo and Cho, Yoon Ah and Cho, Eun Yoon and others - American Society of Clinical Oncology",
-      "releaseDate": "A4 - 2024",
+      "name": "[A4] Performance validation of an artificial intelligence-powered PD-L1 combined positive score analyzer in six cancer types",
+      "publisher": "ASCO Annual Meeting Abstracts 2023 - T Lee, SI Cho, S Choi, S Kim, W Jung, D Lee, S Lee, M Mostafavi, S Park, J Lee, J Shin, S Kim, K Paeng, CY Ock",
+      "releaseDate": "A4 - 2023",
       "url": "https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.1115",
+      "summary": ""
+    },
+    {
+      "name": "[P1] A method and apparatus for analyzing pathological slide images",
+      "publisher": "2024.12- J Ryu., M Mostafavi, B Brattoli, CH Ahn, Y Lee, T Lee, S Kim, W Hwang,  US patent 2025, Korean (2024-0193383) {병리 슬라이드 이미지를 분석하는 방법 및 장치}",
+      "releaseDate": "2024",
+      "url": "/assets/pdf/Patent1.pdf",
+      "summary": ""
+    },
+    {
+      "name": "[P2] A method and apparatus for analyzing IHC stained images using an AI model",
+      "publisher": "2024.02- B Brattoli, M Mostafavi, Y Lee, CH Ahn, T Lee, and J Ryu. Korean Patent (2024-0018904) {AI 모델을 이용한 IHC 염색 슬라이드 이미지 분석 방법 및 장치}",
+      "releaseDate": "2024",
+      "url": "/assets/pdf/Patent2.pdf",
+      "summary": ""
+    },
+    {
+      "name": "[P3] A method and apparatus for generating super resolve intensity image",
+      "publisher": "2020 - J Choi, SM Mostafavi I, and KJ Yoon. Korean Patent (102366187) {고해상도 강도 이미지 생성 방법 및 장치}",
+      "releaseDate": "2020",
+      "url": "/assets/pdf/Patent0.pdf",
       "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Patent 1 - Event Cameras",
-      "date": "2022",
-      "issuer": "Korean Intellectual Property Office",
-      "url": "/assets/pdf/Patent0.pdf",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Patent 2 - Medical AI",
-      "date": "2024",
-      "issuer": "Korean Intellectual Property Office",
-      "url": "/assets/pdf/Patent1.pdf",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Patent 3 - Medical AI",
-      "date": "2024",
-      "issuer": "Korean Intellectual Property Office",
-      "url": "/assets/pdf/Patent2.pdf",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "awards": [
     {
       "title": "Presidential Excellence Award - Best Ph.D. Dissertation",
@@ -334,12 +342,11 @@
       "summary": ""
     }
   ],
-
   "volunteer": [
     {
       "organization": "IEEE YPAG Manager",
       "location": "GIST",
-      "position": "",
+      "position": "First Manager of IEEE Young Prof. Affinity Group in Gwangju Korea",
       "url": "https://yp.ieee.org/blog/2022/02/20/the-first-jump-ieee-gwangju-young-professionals/",
       "startDate": "2016",
       "endDate": "2021",
@@ -400,7 +407,7 @@
     },
     {
       "language": "Korean",
-      "fluency": "Low intermediate",
+      "fluency": "Low-intermediate",
       "icon": ""
     }
   ],
