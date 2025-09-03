@@ -156,13 +156,13 @@
       "name": "Development Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["PyTorch" , "TensorFlow", "Keras" , "OpenCV", "NumPy" , "Pandas", "Seaborn" , "Matplotlib"]
+      "keywords": ["PyTorch", "TensorFlow", "Keras", "OpenCV", "NumPy", "Pandas", "Seaborn", "Matplotlib"]
     },
     {
       "name": "Development and Deployment Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["GNU Linux" , "Docker", "Google GCP" , "Git", "ROS" , "Meshlab", "LaTeX" , "Confluence", "Jira", "Notion"]
+      "keywords": ["GNU Linux", "Docker", "Google GCP", "Git", "ROS", "Meshlab", "LaTeX", "Confluence", "Jira", "Notion"]
     },
     {
       "name": "Management Skills",
