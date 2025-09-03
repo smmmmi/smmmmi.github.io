@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 (1) I am a postdoc researcher (Since Sep. 2025) at Korea Advnaced Institute of Science and Technology (KAIST) [Visual Intelligence lab](https://vi.kaist.ac.kr). Conducted in collaboration with my 2nd affiilation, SNUMPR, this research is supported by South Korea’s Ministry of Science and ICT through the InnoCORE (Innovation + Core Researchers) program.
 
-(2) I am a postdoc researcher (Since Apr. 2024) at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html). I collaborate on event-based vision research, image-to-image translation research involving diffusion and consistency models, and also versatile incremental learning.
+(2) I continue to be a postdoc researcher (Since Apr. 2024) at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html). I collaborate on event-based vision research, image-to-image translation research involving diffusion and consistency models, and also versatile incremental learning.
 
 
 `Back to Academia after Industry`
