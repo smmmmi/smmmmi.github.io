@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting a new posptdoctoral fellow program conducted in collaboration between the [KAIST Visual Intelligence Lab](https://vi.kaist.ac.kr/) and the [SNU Machine Perception and Reasoning Lab](https://snumprlab.github.io/), this research is supported by South Korea’s Ministry of Science and ICT through the InnoCORE (Innovation + Core Researchers) program.
+Starting a new posptdoctoral fellow program conducted in collaboration between [KAIST Visual Intelligence Lab](https://vi.kaist.ac.kr/), [DGIST Computer vision lab](https://cvlab.dgist.ac.kr/projects/), and [SNU Machine Perception and Reasoning Lab](https://snumprlab.github.io/), this research is supported by South Korea’s Ministry of Science and ICT through the InnoCORE (Innovation + Core Researchers) program.
