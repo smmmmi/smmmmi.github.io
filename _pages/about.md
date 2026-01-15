@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 `Current Affiliations`
 
-(1) I am a postdoctoral researcher at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html) Since Apr. 2024. I collaborate mostly on event-based vision research, image-to-image translation research involving diffusion and consistency models.
+(1) I am a postdoctoral researcher at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html) since 2024. I collaborate mostly on event-based vision, and image-to-image translation research involving diffusion and consistency models.
 
 (2)  In addition, I am affiliated with two institutes under South Korea’s Ministry of Science and ICT through the [InnoCORE](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&mPid=2&pageIndex=&bbsSeqNo=42&nttSeqNo=1128&searchOpt=ALL&searchTxt=innocore) (Innovation + Core Researchers) program: Daegu Gyeongbuk Institute of Science and Technology (DGIST) Bio-Embodied Physical AI Research Group [Computer vision lab](https://cvlab.dgist.ac.kr/projects/), and Korea Advnaced Institute of Science and Technology (KAIST) [Visual Intelligence lab](https://vi.kaist.ac.kr).
 
