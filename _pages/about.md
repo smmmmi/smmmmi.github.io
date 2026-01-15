@@ -15,13 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-👋 Hello! I’m an artificial intelligence researcher specializing in computer vision and machine learning. With a passion for solving complex problems, I’ve dedicated 3+ years to medical AI, particularly in the field of computational pathology. Additionally, I have 7+ years of experience in event-based vision, focusing on event cameras. Explore my latest interests [here](/cv/#interests-1), and/or keep reading for a concise overview about me.
+👋 Hello! I’m an artificial intelligence researcher with over a decade of experience in computer vision and machine learning. Driven by a passion for tackling complex problems, my work spans diverse areas including diffusion models and GANs for image-to-image translation, medical AI with a focus on computational pathology, and event-based vision leveraging event cameras. You can explore my latest interests [here](/cv/#interests-1), and/or keep reading for a concise overview about me.
 
 `Current Affiliations`
 
-(1) I am a postdoc researcher (Since Sep. 2025) at Korea Advnaced Institute of Science and Technology (KAIST) [Visual Intelligence lab](https://vi.kaist.ac.kr). Conducted in collaboration with my 2nd affiilation, SNUMPR, this research is supported by South Korea’s Ministry of Science and ICT through the InnoCORE (Innovation + Core Researchers) program.
+(1) I am a postdoctoral researcher at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html) Since Apr. 2024. I collaborate mostly on event-based vision research, image-to-image translation research involving diffusion and consistency models.
 
-(2) I continue to be a postdoc researcher (Since Apr. 2024) at Seoul National University (SNU) [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html). I collaborate on event-based vision research, image-to-image translation research involving diffusion and consistency models, and also versatile incremental learning.
+(2)  In addition, I am affiliated with two institutes under South Korea’s Ministry of Science and ICT through the [InnoCORE](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&mPid=2&pageIndex=&bbsSeqNo=42&nttSeqNo=1128&searchOpt=ALL&searchTxt=innocore) (Innovation + Core Researchers) program: Daegu Gyeongbuk Institute of Science and Technology (DGIST) Bio-Embodied Physical AI Research Group [Computer vision lab](https://cvlab.dgist.ac.kr/projects/), and Korea Advnaced Institute of Science and Technology (KAIST) [Visual Intelligence lab](https://vi.kaist.ac.kr).
 
 `Back to Academia after Industry`
 I was a nomadic postdoc researcher position at Medical Imaging and Signal Processing Research Center [MISP](https://misp.mui.ac.ir/) at the Medical University of Isfahan, Iran. This project is held by Iran's National Elites Foundation [INEF](https://en.wikipedia.org/wiki/Iran%27s_National_Elites_Foundation) conducted via the [Connect Platform](https://connect.isti.ir/). In addition to developing CV/ML data and deep learning project that are mainly focused on medical AI, I design and teach AI courses to medical students and professors to foster interdisciplinary research teams.
