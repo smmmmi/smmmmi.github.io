@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to **CVPR 2026**: *DBMSolver* (Main) and *FALCON* (Findings).
+Two papers accepted to **CVPR 2026**: _DBMSolver_ (Main) and _FALCON_ (Findings).

@@ -36,6 +36,7 @@ During my Ph.D. research at [GIST](https://www.gist.ac.kr/en/main.html) (and [KA
 My north star is enhancing business efficiency and ensuring sustainable growth in every project I undertake. I am passionate about contributing to AI for humanitarian causes, working to save lives, alleviate suffering, and uphold human dignity.
 
 `Honors & Academic Service`
+
 - **Technical Reviewer: Gold** — International Conference on Machine Learning (**ICML**), 2026.
 - Reviewer for **CVPR, ECCV, ICCV, ICML, MICCAI, IJCV**, and **IEEE Transactions**.
 - Challenge Organizer — **OCELOT** (MICCAI 2023) and **Advances in Neuromorphic Vision** (ICME 2024).
