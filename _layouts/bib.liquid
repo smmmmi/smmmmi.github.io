@@ -5,22 +5,22 @@
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
         {%- comment -%} Derive venue family class for color coding. Sequential checks (later wins) so e.g. "Discover Onc." resolves to oncology, not generic journal. {%- endcomment -%}
-        {% assign venue_family = "venue-other" %}
-        {% if entry.abbr contains "CVPR" %}{% assign venue_family = "venue-cvpr" %}{% endif %}
-        {% if entry.abbr contains "ICCV" %}{% assign venue_family = "venue-iccv" %}{% endif %}
-        {% if entry.abbr contains "ECCV" %}{% assign venue_family = "venue-eccv" %}{% endif %}
-        {% if entry.abbr contains "TPAMI" %}{% assign venue_family = "venue-tpami" %}{% endif %}
-        {% if entry.abbr contains "IJCV" %}{% assign venue_family = "venue-ijcv" %}{% endif %}
-        {% if entry.abbr contains "NPJ" %}{% assign venue_family = "venue-nature" %}{% endif %}
-        {% if entry.abbr contains "Nature" %}{% assign venue_family = "venue-nature" %}{% endif %}
-        {% if entry.abbr contains "MDPI" %}{% assign venue_family = "venue-journal" %}{% endif %}
-        {% if entry.abbr contains "Head" %}{% assign venue_family = "venue-journal" %}{% endif %}
-        {% if entry.abbr contains "Discover" %}{% assign venue_family = "venue-journal" %}{% endif %}
-        {% if entry.abbr contains "ASCO" %}{% assign venue_family = "venue-oncology" %}{% endif %}
-        {% if entry.abbr contains "ESMO" %}{% assign venue_family = "venue-oncology" %}{% endif %}
-        {% if entry.abbr contains "SITC" %}{% assign venue_family = "venue-oncology" %}{% endif %}
-        {% if entry.abbr contains "AACR" %}{% assign venue_family = "venue-oncology" %}{% endif %}
-        {% if entry.abbr contains "Onc" %}{% assign venue_family = "venue-oncology" %}{% endif %}
+        {% assign venue_family = 'venue-other' %}
+        {% if entry.abbr contains 'CVPR' %}{% assign venue_family = 'venue-cvpr' %}{% endif %}
+        {% if entry.abbr contains 'ICCV' %}{% assign venue_family = 'venue-iccv' %}{% endif %}
+        {% if entry.abbr contains 'ECCV' %}{% assign venue_family = 'venue-eccv' %}{% endif %}
+        {% if entry.abbr contains 'TPAMI' %}{% assign venue_family = 'venue-tpami' %}{% endif %}
+        {% if entry.abbr contains 'IJCV' %}{% assign venue_family = 'venue-ijcv' %}{% endif %}
+        {% if entry.abbr contains 'NPJ' %}{% assign venue_family = 'venue-nature' %}{% endif %}
+        {% if entry.abbr contains 'Nature' %}{% assign venue_family = 'venue-nature' %}{% endif %}
+        {% if entry.abbr contains 'MDPI' %}{% assign venue_family = 'venue-journal' %}{% endif %}
+        {% if entry.abbr contains 'Head' %}{% assign venue_family = 'venue-journal' %}{% endif %}
+        {% if entry.abbr contains 'Discover' %}{% assign venue_family = 'venue-journal' %}{% endif %}
+        {% if entry.abbr contains 'ASCO' %}{% assign venue_family = 'venue-oncology' %}{% endif %}
+        {% if entry.abbr contains 'ESMO' %}{% assign venue_family = 'venue-oncology' %}{% endif %}
+        {% if entry.abbr contains 'SITC' %}{% assign venue_family = 'venue-oncology' %}{% endif %}
+        {% if entry.abbr contains 'AACR' %}{% assign venue_family = 'venue-oncology' %}{% endif %}
+        {% if entry.abbr contains 'Onc' %}{% assign venue_family = 'venue-oncology' %}{% endif %}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
