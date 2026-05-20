@@ -102,6 +102,11 @@
       items:
         - OCELOT — Cell Detection from Cell-Tissue Interaction (MICCAI 2023)
         - Advances in Neuromorphic Vision (ICME 2024)
+    - title: Entrepreneurship
+      items:
+        - Pitched at <strong>COMEUP 2025</strong> (Korea's flagship startup conference, Seoul, Dec 2025) with <strong>Seoul Startup Society</strong>
+        - OASIS Program (Korea) — startup creation, commercialization, entrepreneurship (Modules 1, 2, 4, 5)
+        - Architecting early-stage ventures — <em>Jichim AI</em> (career navigation &amp; potential mapping) and <em>Seoul Loop</em> (hyper-local fashion micro-rental)
     - title: Open Source
       items:
         - Maintained widely referenced GitHub repositories from CVPR/TPAMI papers (e.g., E2SRI and event-based stereo depth codebases — 50+ stars combined)
