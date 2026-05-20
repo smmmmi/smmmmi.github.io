@@ -1,3 +1,14 @@
+- title: Executive Summary
+  type: string
+  contents: >-
+    Award-winning AI researcher and technical leader with 10+ years bridging
+    Computer Vision (Neuromorphic / Generative AI) and Clinical Pathology.
+    Proven record guiding R&amp;D from theory to deployment (Lunit SCOPE).
+    Skilled in building cross-functional teams, managing IP portfolios
+    (3 patents), and publishing in top-tier venues (CVPR, TPAMI,
+    Nature npj). Seeking to leverage deep expertise and strategic vision
+    as CTO, VP of AI Research, or Principal Investigator.
+
 - title: Interests
   type: list
   contents:
@@ -5,3 +16,147 @@
     - Event-based (Neuromorphic) Cameras/Vision (Reconstruction, Super-resolution, Depth/Flow estimation).
     - Super-resolution (RNNs for Event-cameras, weighted patches for Facial images).
     - Generative Models (Diffusion-based, Bridging, CTMs, Flow matching, and GANs).
+
+- title: Core Competencies
+  type: nested_list
+  contents:
+    - title: Technical Leadership
+      items:
+        - R&D Strategy
+        - Product Roadmap Execution
+        - Cross-functional Team Management
+        - Tech Transfer & Commercialization
+    - title: AI Specializations
+      items:
+        - Generative Models (Diffusion / GANs / Flow Matching)
+        - Event-based Vision
+        - Computational Pathology
+        - Medical Image Analysis
+        - 3D Depth Estimation
+        - Super-resolution
+    - title: Business & Ops
+      items:
+        - Startup Incubation (OASIS Program)
+        - IP Strategy
+        - Stakeholder Engagement
+        - Venture Fundraising Support
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Research Fellow
+      institution: Seoul National University (SNU)
+      location: Seoul, South Korea
+      year: Mar 2024 — Present
+      description:
+        - Lead researcher for advanced AI projects, including the prestigious government-funded InnoCORE Program (commencing Sep 2025) bridging SNU, KAIST, and DGIST; spearheading R&D in Generative AI and Neuromorphic Vision.
+        - "Research focus: next-generation generative models for image-to-image translation and spiking neural networks for depth estimation from event cameras."
+        - "Leadership: mentoring graduate students and collaborating across SNU-MPR, KAIST-VI, and DGIST-CVL — 2 CVPR + 1 under review in the first year."
+        - "Technical impact: advanced methods for efficient image-to-image translation requiring minimal compute resources and fewer evaluations."
+        - "Global AI strategy: directed a 9-month high-impact AI residency at MUI-MISP (see below)."
+
+    - title: Visiting Researcher (Strategic AI Residency)
+      institution: Medical University of Isfahan (MUI-MISP)
+      location: Isfahan, Iran
+      year: Jun 2024 — Feb 2025
+      description:
+        - Medical AI alignment while maintaining concurrent remote research with SNU.
+        - "Curriculum: designed and delivered the university's first 'AI in Ophthalmology' and related AI curricula for medical practitioners and faculty."
+        - "Advisory: primary technical advisor to faculty and medical students on AI integration in clinical workflows (ophthalmology, pathology, cardiology)."
+
+    - title: Team Leader & Senior Research Scientist (Oncology AI)
+      institution: Lunit Inc.
+      location: Seoul, South Korea
+      year: Jun 2021 — Mar 2024
+      description:
+        - "Product leadership: directed the specialized R&D unit contributing to the Lunit SCOPE suite; influenced 4 of 8 product development cycles, translating research models into CE-marked clinical tools and pharma-ready workflows."
+        - "Strategic innovation: conceptualized and co-developed 'Universal IHC' models (Nature npj Precision Oncology 2024), generalizing cancer cell classification across cancer types and immunostains; later extended with sub-cellular segmentation (patent)."
+        - "Performance engineering: core algorithms for cell detection, tissue segmentation, IO and PD-L1, achieving state-of-the-art performance in internal evaluations and external pharma pilots."
+        - "Cross-functional management: aligned technical roadmaps with business goals across Pathology, Biomedical Engineering, Product, and Business Development."
+        - "IP & eminence: 2 patents (KR/US) and active academic presence via publications, abstracts, and seminars."
+
+    - title: Research Assistant (Ph.D. Candidate)
+      institution: Gwangju Institute of Science and Technology (GIST)
+      location: Gwangju, South Korea
+      year: Sep 2015 — Jun 2021
+      description:
+        - Pioneered novel event-based vision architectures for image reconstruction, super-resolution, and depth estimation.
+        - "Achievement: Ranked #1 globally in the CVPR Workshop Event-based Vision Competition (2021)."
+        - "Collaboration: led cross-lab and international collaborations resulting in high-impact publications in TPAMI, IJCV, and CVPR (including an oral presentation)."
+
+- title: Honors & Awards
+  type: list
+  contents:
+    - Presidential Excellence Award — Best Ph.D. Dissertation, GIST (2021)
+    - 1st Place, CVPR Workshop Event-based Vision Competition (2021)
+    - Outstanding Research Assistant Award, GIST (2020)
+
+- title: Professional Service & Leadership
+  type: nested_list
+  contents:
+    - title: Reviewer
+      items:
+        - CVPR, ECCV, ICCV, ICML, MICCAI, IJCV, and IEEE Transactions
+        - "Technical Reviewer: Gold — ICML 2026"
+    - title: Challenge Organizer
+      items:
+        - OCELOT — Cell Detection from Cell-Tissue Interaction (MICCAI 2023)
+        - Advances in Neuromorphic Vision (ICME 2024)
+    - title: Open Source
+      items:
+        - Maintained widely referenced GitHub repositories from CVPR/TPAMI papers (e.g., E2SRI and event-based stereo depth codebases — 50+ stars combined)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Electrical Engineering & Computer Science (AI Track)
+      institution: Gwangju Institute of Science and Technology (GIST)
+      location: South Korea
+      year: 2021
+      description:
+        - Distinction — Presidential Excellence Award (Best Dissertation)
+        - Advisors — Prof. Jonghyun Choi (GIST, now at SNU) & Prof. Kuk-Jin Yoon (KAIST)
+    - title: M.Sc. in Electrical Engineering
+      institution: Hakim Sabzevari University
+      location: Iran
+      year: 2014
+      description:
+        - "Thesis: Facial Image Super-Resolution Using Weighted Patch Pairs"
+        - Advisors — Prof. Javad Haddadnia & Prof. Payman Moallem
+
+- title: Selected Publications & Patents
+  type: list
+  contents:
+    - "<em>Total citations: 750+ &nbsp;·&nbsp; h-index: 10</em>"
+    - <strong>CVPR 2026 (×2)</strong> — Diffusion models for image translation (Main) and Event Cameras with SNN for depth (Findings).
+    - <strong>US Patent 2025</strong> — Method and Apparatus for Analyzing Pathological Slide Images (Lunit).
+    - <strong>Korea Patent 2024</strong> — AI Model for IHC Stained Image Analysis (Lunit).
+    - <strong>Nature npj Precision Oncology 2024</strong> (IF 8.0) — AI-driven Universal Immunohistochemistry analyzer.
+    - <strong>CVPR 2022, ICCV 2021</strong> — Event Cameras for depth estimation and sensor fusion.
+    - <strong>Korea Patent 2020</strong> — Method and Apparatus for Generating Super-Resolved Intensity Images (GIST).
+    - <strong>CVPR 2020 (Oral, top 5%), TPAMI 2021</strong> (IF 24.31) — Event Cameras for image generation and super-resolution.
+    - <strong>CVPR 2019, IJCV 2021</strong> (IF 13.37) — Event Cameras for high dynamic range and high frame rate video generation.
+
+- title: Technical & Managerial Skills
+  type: nested_list
+  contents:
+    - title: Core AI Stack
+      items:
+        - PyTorch, TensorFlow, OpenCV
+        - Generative Models (Diffusion, GANs, Flow Matching)
+        - Spiking Neural Networks
+        - Copilot / Claude
+    - title: Development
+      items:
+        - Python, C++, MATLAB
+        - Docker, Linux, CUDA, Git
+        - GCP, VastAI
+    - title: Management
+      items:
+        - Agile / Jira, Confluence, Notion
+        - Strategic Roadmap Planning
+    - title: Languages
+      items:
+        - English (Bilingual / Fluent)
+        - Farsi (Native)
+        - Korean (Intermediate — KIIP Level 3 completed)
