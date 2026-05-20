@@ -1,0 +1,7 @@
+- title: Interests
+  type: list
+  contents:
+    - Computational Pathology (Cell Detection, Tissue Segmentation, Sub-cell Models).
+    - Event-based (Neuromorphic) Cameras/Vision (Reconstruction, Super-resolution, Depth/Flow estimation).
+    - Super-resolution (RNNs for Event-cameras, weighted patches for Facial images).
+    - Generative Models (Diffusion-based, Bridging, CTMs, Flow matching, and GANs).

@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-👋 Hello! I’m an artificial intelligence researcher specializing in computer vision and machine learning. With a passion for solving complex problems, I’ve dedicated 3+ years to medical AI, particularly in the field of computational pathology. Additionally, I have 7+ years of experience in event-based vision, focusing on event cameras. I was recently recognized as a **Technical Reviewer: Gold** for **ICML 2026**, reflecting an ongoing commitment to peer review across the major CV/ML venues. Explore my latest interests [here](/cv/#interests-1), and/or keep reading for a concise overview about me.
+👋 Hello! I’m an artificial intelligence researcher specializing in computer vision and machine learning. With a passion for solving complex problems, I’ve dedicated 3+ years to medical AI, particularly in the field of computational pathology. Additionally, I have 7+ years of experience in event-based vision, focusing on event cameras. I was recently recognized as a **Technical Reviewer: Gold** for **ICML 2026**, reflecting an ongoing commitment to peer review across the major CV/ML venues. Explore my latest interests [here](/cv/#Interests), and/or keep reading for a concise overview about me.
 
 `Current Affiliations`
 
