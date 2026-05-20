@@ -1,0 +1,258 @@
+/*******************************************************************************
+ * Modern portfolio enhancements
+ *  - Hero tagline + profile glow
+ *  - Stats bar
+ *  - Venue color badges + publication card hover
+ *  - Affiliation chips
+ *
+ * All colors route through :root CSS variables where possible so light/dark
+ * themes stay coherent.
+ ******************************************************************************/
+
+// ---------- Hero polish ----------------------------------------------------
+
+.hero-tagline {
+  font-size: 1.05rem;
+  font-weight: 300;
+  color: var(--global-text-color-light);
+  letter-spacing: 0.015em;
+  margin: 0 0 1.5rem 0;
+  line-height: 1.5;
+
+  .tagline-dot {
+    color: var(--global-theme-color);
+    margin: 0 0.4rem;
+    opacity: 0.65;
+    font-weight: 700;
+  }
+
+  .tagline-piece {
+    display: inline-block;
+    white-space: nowrap;
+  }
+}
+
+// Profile image glow halo
+.profile img {
+  box-shadow:
+    0 0 0 3px rgba(181, 9, 172, 0.1),
+    0 10px 30px rgba(0, 0, 0, 0.08);
+  transition:
+    box-shadow 0.5s ease,
+    transform 0.5s ease;
+}
+
+.profile:hover img {
+  box-shadow:
+    0 0 0 6px rgba(181, 9, 172, 0.18),
+    0 14px 40px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+// ---------- Stats hero bar -------------------------------------------------
+
+.stats-bar {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.85rem;
+  margin: 1.75rem 0 2rem;
+
+  @media (max-width: 576px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .stat-card {
+    padding: 1rem 0.6rem 0.85rem;
+    text-align: center;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 12px;
+    background: var(--global-card-bg-color);
+    transition:
+      transform 0.25s ease,
+      box-shadow 0.25s ease,
+      border-color 0.25s ease;
+
+    &:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+      border-color: var(--global-theme-color);
+    }
+
+    .stat-value {
+      display: block;
+      font-size: 1.75rem;
+      font-weight: 700;
+      line-height: 1;
+      color: var(--global-theme-color);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 0.72rem;
+      font-weight: 500;
+      color: var(--global-text-color-light);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 0.45rem;
+    }
+  }
+}
+
+// ---------- Venue color badges --------------------------------------------
+
+.publications {
+  // base badge restyle
+  .col-sm-2.abbr abbr.badge,
+  .col.col-sm-2.abbr abbr.badge {
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.015em;
+    padding: 0.55rem 0.5rem;
+    border-radius: 8px;
+    border: none;
+    background: linear-gradient(135deg, #6b7280, #4b5563);
+    color: #fff !important;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    line-height: 1.25;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+
+    a {
+      color: #fff !important;
+      text-decoration: none;
+    }
+
+    // Venue families
+    &.venue-cvpr {
+      background: linear-gradient(135deg, #6b46c1, #553c9a);
+    }
+    &.venue-iccv {
+      background: linear-gradient(135deg, #4f46e5, #3730a3);
+    }
+    &.venue-eccv {
+      background: linear-gradient(135deg, #059669, #047857);
+    }
+    &.venue-tpami {
+      background: linear-gradient(135deg, #d97706, #b45309);
+    }
+    &.venue-ijcv {
+      background: linear-gradient(135deg, #0891b2, #155e75);
+    }
+    &.venue-nature {
+      background: linear-gradient(135deg, #c2870a, #9a6b08);
+    }
+    &.venue-oncology {
+      background: linear-gradient(135deg, #be185d, #9d174d);
+    }
+    &.venue-journal {
+      background: linear-gradient(135deg, #475569, #334155);
+    }
+  }
+
+  // Card hover-lift for individual publication rows
+  ol.bibliography > li,
+  .row {
+    transition:
+      transform 0.25s ease,
+      box-shadow 0.25s ease,
+      background-color 0.25s ease;
+    border-radius: 10px;
+  }
+
+  ol.bibliography > li:hover,
+  > .row:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+  }
+}
+
+// ---------- Affiliation chips ---------------------------------------------
+
+.affiliation-chip {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: 7px;
+  border: 1px solid;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-decoration: none !important;
+  vertical-align: baseline;
+  margin-right: 0.3rem;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  }
+
+  // Per-institution palettes
+  &.aff-snu {
+    color: #003876;
+    background: rgba(0, 56, 118, 0.08);
+    border-color: rgba(0, 56, 118, 0.35);
+  }
+  &.aff-kaist {
+    color: #004b85;
+    background: rgba(0, 75, 133, 0.08);
+    border-color: rgba(0, 75, 133, 0.35);
+  }
+  &.aff-dgist {
+    color: #c5163e;
+    background: rgba(197, 22, 62, 0.08);
+    border-color: rgba(197, 22, 62, 0.35);
+  }
+  &.aff-gist {
+    color: #1a5490;
+    background: rgba(26, 84, 144, 0.08);
+    border-color: rgba(26, 84, 144, 0.35);
+  }
+  &.aff-lunit {
+    color: #6b5bff;
+    background: rgba(107, 91, 255, 0.08);
+    border-color: rgba(107, 91, 255, 0.35);
+  }
+  &.aff-mui {
+    color: #1f7a45;
+    background: rgba(31, 122, 69, 0.1);
+    border-color: rgba(31, 122, 69, 0.4);
+  }
+}
+
+// Dark mode tweaks — lighten chip text + slight background bump
+html[data-theme="dark"] .affiliation-chip {
+  &.aff-snu {
+    color: #6ba6e6;
+    background: rgba(107, 166, 230, 0.1);
+    border-color: rgba(107, 166, 230, 0.3);
+  }
+  &.aff-kaist {
+    color: #6cb4ee;
+    background: rgba(108, 180, 238, 0.1);
+    border-color: rgba(108, 180, 238, 0.3);
+  }
+  &.aff-dgist {
+    color: #f5728f;
+    background: rgba(245, 114, 143, 0.1);
+    border-color: rgba(245, 114, 143, 0.3);
+  }
+  &.aff-gist {
+    color: #74a8d8;
+    background: rgba(116, 168, 216, 0.1);
+    border-color: rgba(116, 168, 216, 0.3);
+  }
+  &.aff-lunit {
+    color: #a99cff;
+    background: rgba(169, 156, 255, 0.1);
+    border-color: rgba(169, 156, 255, 0.3);
+  }
+  &.aff-mui {
+    color: #6dc592;
+    background: rgba(109, 197, 146, 0.1);
+    border-color: rgba(109, 197, 146, 0.3);
+  }
+}
