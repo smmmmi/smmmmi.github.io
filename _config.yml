@@ -169,17 +169,9 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
   - purgecss.config.js
