@@ -21,13 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 👋 Hello! I’m an artificial intelligence researcher specializing in computer vision and machine learning. With a passion for solving complex problems, I’ve dedicated 3+ years to medical AI, particularly in the field of computational pathology. Additionally, I have 7+ years of experience in event-based vision, focusing on event cameras. I was recently recognized as a **Technical Reviewer: Gold** for **ICML 2026**, reflecting an ongoing commitment to peer review across the major CV/ML venues. Explore my latest interests [here](/cv/#Interests), and/or keep reading for a concise overview about me.
 
-<div class="stats-bar">
-  <div class="stat-card"><span class="stat-value">750+</span><span class="stat-label">Citations</span></div>
-  <div class="stat-card"><span class="stat-value">10</span><span class="stat-label">h-index</span></div>
-  <div class="stat-card"><span class="stat-value">17+</span><span class="stat-label">Papers</span></div>
-  <div class="stat-card"><span class="stat-value">3</span><span class="stat-label">Patents</span></div>
-</div>
-
 `Current Affiliations`
 
 <span class="affiliation-chip aff-snu">SNU</span> &nbsp; Postdoctoral researcher at Seoul National University [Machine Perception and Reasoning lab](https://snumprlab.github.io/people.html) since 2024 — collaborating on event-based vision and image-to-image translation research involving diffusion and consistency models.
@@ -36,7 +29,9 @@ social: true # includes social icons at the bottom of the page
 
 `Back to Academia after Industry`
 
-<span class="affiliation-chip aff-mui">MUI-MISP</span> &nbsp; From **June 2024 to February 2025**, I served as a **Visiting Researcher** at the Medical Imaging and Signal Processing Research Center [MISP](https://misp.mui.ac.ir/) at the Medical University of Isfahan, Iran — a fixed-term visiting engagement hosted via Iran's National Elites Foundation [INEF](https://en.wikipedia.org/wiki/Iran%27s_National_Elites_Foundation) through the [Connect Platform](https://connect.isti.ir/). Throughout this visit I **maintained remote research alignment with my primary postdoc at SNU (MPR lab)**, so the two appointments overlap by design rather than by gap. In addition to developing CV/ML data and deep learning projects focused on medical AI, I designed and taught AI courses to medical students and faculty to foster interdisciplinary research teams.
+<span class="affiliation-chip aff-snu">SNU</span> &nbsp; Returned to academia in **March 2024** at SNU's [Machine Perception and Reasoning lab](https://snumprlab.github.io/) — the bridge from industry (Lunit) back to research on event-based vision and generative diffusion models.
+
+<span class="affiliation-chip aff-mui">MUI-MISP</span> &nbsp; Held a concurrent **Visiting Researcher** position at [MUI-MISP](https://misp.mui.ac.ir/) in Iran (Jun 2024 – Feb 2025) — a short medical-AI residency with remote alignment to SNU.
 
 `Industry Experience after PhD`
 
